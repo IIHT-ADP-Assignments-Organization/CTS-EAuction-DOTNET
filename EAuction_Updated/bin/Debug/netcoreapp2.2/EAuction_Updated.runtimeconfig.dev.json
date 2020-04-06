@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\SHINE\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\SHINE\\.nuget\\packages"
+    ]
+  }
+}

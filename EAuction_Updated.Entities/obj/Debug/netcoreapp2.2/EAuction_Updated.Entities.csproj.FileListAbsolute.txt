@@ -1,0 +1,8 @@
+E:\Shilpa\EAuction_Updated\EAuction_Updated.Entities\bin\Debug\netcoreapp2.2\EAuction_Updated.Entities.deps.json
+E:\Shilpa\EAuction_Updated\EAuction_Updated.Entities\bin\Debug\netcoreapp2.2\EAuction_Updated.Entities.dll
+E:\Shilpa\EAuction_Updated\EAuction_Updated.Entities\bin\Debug\netcoreapp2.2\EAuction_Updated.Entities.pdb
+E:\Shilpa\EAuction_Updated\EAuction_Updated.Entities\obj\Debug\netcoreapp2.2\EAuction_Updated.Entities.csproj.CoreCompileInputs.cache
+E:\Shilpa\EAuction_Updated\EAuction_Updated.Entities\obj\Debug\netcoreapp2.2\EAuction_Updated.Entities.AssemblyInfoInputs.cache
+E:\Shilpa\EAuction_Updated\EAuction_Updated.Entities\obj\Debug\netcoreapp2.2\EAuction_Updated.Entities.AssemblyInfo.cs
+E:\Shilpa\EAuction_Updated\EAuction_Updated.Entities\obj\Debug\netcoreapp2.2\EAuction_Updated.Entities.dll
+E:\Shilpa\EAuction_Updated\EAuction_Updated.Entities\obj\Debug\netcoreapp2.2\EAuction_Updated.Entities.pdb

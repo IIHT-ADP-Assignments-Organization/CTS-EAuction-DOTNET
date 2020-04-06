@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "EAuction_Updated.BusinessLayer/1.0.0": {
+        "runtime": {
+          "EAuction_Updated.BusinessLayer.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "EAuction_Updated.BusinessLayer/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

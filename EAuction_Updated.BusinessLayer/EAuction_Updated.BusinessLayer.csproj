@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.2</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\EAuction_Updated.DataLayer\EAuction_Updated.DataLayer.csproj" />
+    <ProjectReference Include="..\EAuction_Updated.Entities\EAuction_Updated.Entities.csproj" />
+  </ItemGroup>
+
+</Project>
